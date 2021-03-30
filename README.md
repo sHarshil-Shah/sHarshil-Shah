@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sHarshil-Shah
 - 👀 I’m interested in Pair Programming
 - 💞️ I’m looking to collaborate on crazy projects that no ne have thought of yet.
-- 📫 How to reach me sharshil1299@gmail.com
+- 📫 Reach me at sharshil1299@gmail.com
 
 <!---
 sHarshil-Shah/sHarshil-Shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
